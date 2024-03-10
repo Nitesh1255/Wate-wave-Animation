@@ -1,5 +1,7 @@
 # Introduction
 ![wave](https://github.com/Nitesh1255/Music-wave-Animation/assets/119393883/bcdc82bc-e57a-46e5-a496-cccb051cdb0a)
+
+
 Experience the soothing visual effects of the Music Wave Animation! This web-based animation is created using HTML and CSS to simulate the gentle, rhythmic waves inspired by music. Whether you want to add a calming touch to your website or explore the creative potential of web animations, the Music Wave Animation is sure to captivate your audience.
 
  # Features
